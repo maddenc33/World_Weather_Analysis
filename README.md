@@ -166,7 +166,13 @@ Once the dataframe with the weather data for the cities has been created, graphi
 
 I created four scatterplots demonstrating the relationship between latitude vs. temperature, humidity, cloudiness, and wind speed.  Notice which of the four demonstrates a strong correlation with latitude: temperature.
 
-![Latitude vs. Max Temperature](https://github.com/maddenc33/World_Weather_Analysis/blob/main/analysis/Fig1.png?raw=true)
+![Latitude vs. Max Temperature](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig1.png?raw=true)
+
+![Latitude vs. Max Temperature](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig2.png?raw=true)
+
+![Latitude vs. Max Temperature](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig3.png?raw=true)
+
+![Latitude vs. Max Temperature](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig4.png?raw=true)
 
 ---
 
