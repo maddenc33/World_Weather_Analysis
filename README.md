@@ -164,7 +164,27 @@ Once the dataframe with the weather data for the cities has been created, graphi
 
 #### 2. Exploratory Analysis with Visualization
 
-I created four scatterplots demonstrating the relationship between latitude vs. temperature, humidity, cloudiness, and wind speed.  Notice which of the four demonstrates a strong correlation with latitude: temperature.
+I created four scatterplots demonstrating the relationship between latitude vs. temperature, humidity, cloudiness, and wind speed.
+
+Here is an example of the code used to generate the latitude vs. max temperature scatterplot:
+
+```python
+
+# Build the scatter plot for latitude vs. max temperature.
+plt.scatter(lats,
+            max_temps,
+            edgecolor="black", linewidths=1, marker="o",
+            alpha=0.8, label="Cities")
+
+# Incorporate the other graph properties.
+plt.title(f"City Latitude vs. Max Temperature "+ time.strftime("%x"))
+plt.ylabel("Max Temperature (F)")
+plt.xlabel("Latitude")
+plt.grid(True)
+
+```
+
+The resulting four scatterplots:
 
 ![Latitude vs. Max Temperature](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig1.png?raw=true)
 
@@ -173,6 +193,8 @@ I created four scatterplots demonstrating the relationship between latitude vs. 
 ![Latitude vs. Cloudiness](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig3.png?raw=true)
 
 ![Latitude vs. Wind Speed](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig4.png?raw=true)
+
+Notice which of the four demonstrates a strong correlation with latitude: temperature.
 
 ---
 
