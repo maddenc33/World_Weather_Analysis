@@ -168,11 +168,11 @@ I created four scatterplots demonstrating the relationship between latitude vs. 
 
 ![Latitude vs. Max Temperature](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig1.png?raw=true)
 
-![Latitude vs. Max Temperature](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig2.png?raw=true)
+![Latitude vs. Humidity](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig2.png?raw=true)
 
-![Latitude vs. Max Temperature](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig3.png?raw=true)
+![Latitude vs. Cloudiness](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig3.png?raw=true)
 
-![Latitude vs. Max Temperature](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig4.png?raw=true)
+![Latitude vs. Wind Speed](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig4.png?raw=true)
 
 ---
 
