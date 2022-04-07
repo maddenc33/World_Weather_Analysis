@@ -83,7 +83,7 @@ https://github.com/maddenc33/World_Weather_Analysis
 
 ## Challenge Overview
 
-### 1. Data Collection
+#### 1. Data Collection
 
 I am using the OpenWeatherMap API to find weather data for random cities.  To generate a list of random cities, I generated random latitudes and longitudes and used citipy.nearest_city method to retrieve the city name for each pair of coordinates.  Once we have city names, we pass the city name to the API to find the JSON weather data for the city.
 
@@ -162,7 +162,7 @@ city_data_df = city_data_df[new_column_order]
 
 Once the dataframe with the weather data for the cities has been created, graphical visualizations and statistical analysis of that data can now be performed.
 
-### 2. Exploratory Analysis with Visualization
+#### 2. Exploratory Analysis with Visualization
 
 I created four scatterplots demonstrating the relationship between latitude vs. temperature, humidity, cloudiness, and wind speed.  Notice which of the four demonstrates a strong correlation with latitude: temperature.
 
