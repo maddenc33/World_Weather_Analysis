@@ -60,6 +60,7 @@ https://github.com/maddenc33/World_Weather_Analysis
 ### Data Sources
 
  - OpenWeatherMap API
+ - Google Maps API
 
 ### Software
 
