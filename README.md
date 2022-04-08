@@ -313,6 +313,8 @@ Worldwide Wind Speed Heat Map
 
 ![Worldwide Wind Speed Heat Map](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig16.png?raw=true)
 
+Notice the similarity between the humidity and cloudiness heat maps.  This intuitively makes sense: cloudiness and humidity have an obvious correlation.
+
 #### 3. Visualization of Travel Data
 
 For the app I am creating, I need to prompt the user to enter the minimum and maximum temperature ranges.  For this example I am using 75-90 degrees Fahrenheit as the range.
