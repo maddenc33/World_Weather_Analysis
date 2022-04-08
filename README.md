@@ -237,35 +237,35 @@ plot_linear_regression(x_values,
 
 Northern Hemisphere Latitude vs. Max Temperature
 
-![Northern Hemisphere Latitude vs. Max Temperature](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig1.png?raw=true)
+![Northern Hemisphere Latitude vs. Max Temperature](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig5.png?raw=true)
 
 Southern Hemisphere Latitude vs. Max Temperature
 
-![Southern Hemisphere Latitude vs. Max Temperature](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig1.png?raw=true)
+![Southern Hemisphere Latitude vs. Max Temperature](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig6.png?raw=true)
 
 Northern Hemisphere Latitude vs. Humidity
 
-![Northern Hemisphere Latitude vs. Humidity](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig1.png?raw=true)
+![Northern Hemisphere Latitude vs. Humidity](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig7.png?raw=true)
 
 Southern Hemisphere Latitude vs. Humidity
 
-![Southern Hemisphere Latitude vs. Humidity](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig1.png?raw=true)
+![Southern Hemisphere Latitude vs. Humidity](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig8.png?raw=true)
 
 Northern Hemisphere Latitude vs. Cloudiness
 
-![Northern Hemisphere Latitude vs. Cloudiness](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig1.png?raw=true)
+![Northern Hemisphere Latitude vs. Cloudiness](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig9.png?raw=true)
 
 Southern Hemisphere Latitude vs. Cloudiness
 
-![Southern Hemisphere Latitude vs. Cloudiness](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig1.png?raw=true)
+![Southern Hemisphere Latitude vs. Cloudiness](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig10.png?raw=true)
 
 Northern Hemisphere Latitude vs. Wind Speed
 
-![Northern Hemisphere Latitude vs. Wind Speed](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig1.png?raw=true)
+![Northern Hemisphere Latitude vs. Wind Speed](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig11.png?raw=true)
 
 Southern Hemisphere Latitude vs. Wind Speed
 
-![Southern Hemisphere Latitude vs. Wind Speed](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig1.png?raw=true)
+![Southern Hemisphere Latitude vs. Wind Speed](https://github.com/maddenc33/World_Weather_Analysis/blob/main/weather_data/Fig12.png?raw=true)
 
 Next I created four heat maps to visualize the temperature, humidity, cloudiness, and wind speed data.
 
