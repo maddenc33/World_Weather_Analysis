@@ -416,8 +416,8 @@ Vacation Spot Heat Map with Pop-Ups
 
 The final map I created were a travel itinerary between four candidate cities from the list.  Below is an image of an example travel itinerary, and the pop-up markers for cities.
 
-![Directions Layer Map](https://github.com/maddenc33/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png.png?raw=true)
+![Directions Layer Map](https://github.com/maddenc33/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png?raw=true)
 
-![Directions Layer Map Markers](https://github.com/maddenc33/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png.png?raw=true)
+![Directions Layer Map Markers](https://github.com/maddenc33/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png?raw=true)
 
 ---
